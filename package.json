@@ -1,0 +1,16 @@
+{
+  "name": "login",
+  "version": "1.0.0",
+  "description": "Inloggning",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+"test:watch": "jest --watch",
+"test:coverage": "jest --coverage"
+  },
+  "author": "Armin",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
